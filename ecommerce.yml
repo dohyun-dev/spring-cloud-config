@@ -9,4 +9,4 @@ spring:
     username: "{cipher}AQAXKdDY9gVVHBf4XBECypsln9iQ2BbyagAJHtWU9IyNZtRryuAPr7iYNB3zlcWN+9ONSWG2XhDB+Hs5BBJ2fC6T+5yqO1+mh6D9JoyVT1fUNNsGsCRKJmwMB9CzpO1V4GLsBd6P2t28gNOtNfURH4bTesnp4wD4T6MNTjcH22Kr6LuNPIXZ6ytgIX4YS9uZ2bpp5Gfqd99XyiPXR6V0ry3Pdh+XxgbXuQWMF3huBtioGdf1Ew9pjinDzAYyafM9BDgmjRguU8R3H5SSAl5agIyQZ+lrJeFSbxeiCskTLAsNd0foZurZDh3+e2rZeaAiJ0HPBsSpbe+Z/b022qZEa/47P5C5tgktsMgL0WHetCsbfW/EFNE7N5G3FCBYJMAlBXA="
 
 order_service:
-  url: http://127.0.0.1:8000/order-service/%s/orders
+  url: http://ORDER-SERVICE/%s/orders
