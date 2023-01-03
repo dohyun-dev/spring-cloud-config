@@ -1,9 +1,9 @@
 token:
   expiration_time: 12345678
-  secret: dohyundevsecret
+  secret: "{cipher}AQA50KHxWy8TMb9xgvnam0bcDH/JXvtXQPZhHxdAbqclWfI/mcnM/3+UyU0ia/k1lBx+vKbi7F9las1PoILGiPjgxrRHycLxWm+w2Hf89nfMqVPmrLJVf5+tUm7f7YZ2o/NGKB2QfoW9jn2IaBdKjG9E2AzTU/Z4/Zu1OFWE39Go8Ad3VHQi9UgRc+H1BGmyKpAup74RXyQGMU+PCMpgDHvLL+0pgi/sEL4FR2kE89tqH3NGnxI1Lj5p3NLC0BA/jyZ83kasTk8IBT7NUVxnQVKo5jRYEppaY6NAdu05tdAsZ+cxxq1yu+Y0+lK0VSDoEgdFQ2ZzY339Lr9j6PQBTAQByB+MhGsEqvflmO9C1itye5sQ56u+E/L9viv9PgUBKdk="
 
 spring:
   datasource:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
-    username: "{cipher}28a2cb3ab77911916b91b686172ddfebc375af159e64b04d420fd090932f7c85"
+    username: "{cipher}AQAXKdDY9gVVHBf4XBECypsln9iQ2BbyagAJHtWU9IyNZtRryuAPr7iYNB3zlcWN+9ONSWG2XhDB+Hs5BBJ2fC6T+5yqO1+mh6D9JoyVT1fUNNsGsCRKJmwMB9CzpO1V4GLsBd6P2t28gNOtNfURH4bTesnp4wD4T6MNTjcH22Kr6LuNPIXZ6ytgIX4YS9uZ2bpp5Gfqd99XyiPXR6V0ry3Pdh+XxgbXuQWMF3huBtioGdf1Ew9pjinDzAYyafM9BDgmjRguU8R3H5SSAl5agIyQZ+lrJeFSbxeiCskTLAsNd0foZurZDh3+e2rZeaAiJ0HPBsSpbe+Z/b022qZEa/47P5C5tgktsMgL0WHetCsbfW/EFNE7N5G3FCBYJMAlBXA="
