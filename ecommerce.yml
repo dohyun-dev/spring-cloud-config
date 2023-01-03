@@ -10,3 +10,5 @@ spring:
 
 order_service:
   url: http://ORDER-SERVICE/%s/orders
+  exception:
+    orders_is_empty: "유저의 주문정보가 존재하지 않습니다."
